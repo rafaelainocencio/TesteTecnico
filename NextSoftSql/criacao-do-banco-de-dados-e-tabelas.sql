@@ -1,4 +1,4 @@
-use conjuntoHabitacionalDB;
+USE ConjuntoHabitacional;
 
 GO
 
